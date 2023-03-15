@@ -23,7 +23,7 @@
 
 - 👋 Hello!  My name is **Sarah**.
 - 👀 I’m interested in ... *Everything!* I love to learn new things and enjoy learning for the sake of learning.
-- 🌱 I’m currently learning ... Data Analysis, Python, AWS, Linux, R, SQL
+- 🌱 I’m currently learning ... Data Analysis, Python, AWS, Linux, R, SQL, Javascript, Git
 - 💞️ I’m looking to collaborate on ... Interesting beginner Data Analysis projects I can be of value to.
 - 📫 How to reach me ... sarahbojorquez1107 at gmail.com
 <div></div>
