@@ -21,14 +21,15 @@
 
 ### :woman_technologist: About Me :
 
-- 👋 Hello!  My name is Sarah.
-- 👀 I’m interested in ... Everything! I love to learn new things and enjoy learning for the sake of learning.
+- 👋 Hello!  My name is **Sarah**.
+- 👀 I’m interested in ... *Everything!* I love to learn new things and enjoy learning for the sake of learning.
 - 🌱 I’m currently learning ... Data Analysis, Python, AWS, Linux, R, SQL
 - 💞️ I’m looking to collaborate on ... Interesting beginner Data Analysis projects I can be of value to.
 - 📫 How to reach me ... sarahbojorquez1107 at gmail.com
 <div></div>
 <div></div>
 
+---
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -36,6 +37,8 @@
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" />
 <div></div>
 <div></div>
+
+Connect with me on[LinkedIn here!](https://www.linkedin.com/in/sarahjbojorquez/)
 
 <div align="center">
   <img src="https://media.giphy.com/media/dU6iSeuBBsN9OpTg5P/giphy.gif" width="200"/>
