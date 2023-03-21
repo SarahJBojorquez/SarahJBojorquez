@@ -26,6 +26,8 @@
 - 🌱 I’m currently learning ... Data Analysis, Python, AWS, Linux, R, SQL, Javascript, Git
 - 💞️ I’m looking to collaborate on ... Interesting beginner Data Analysis projects I can be of value to.
 - 📫 How to reach me ... sarahbojorquez1107 at gmail.com
+
+Like to read? Connect withe me on <a href="https://www.goodreads.com/user/show/97230998-sarah-bojorquez-lopez">GoodReads</a>
 <div></div>
 <div></div>
 
@@ -46,7 +48,7 @@ Connect with me on [LinkedIn here!](https://www.linkedin.com/in/sarahjbojorquez/
 
 Pic of my dog for attention:
 
-<img src="https://scontent.fosu2-2.fna.fbcdn.net/v/t39.30808-6/313983604_10231124118744977_2113524910701746230_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=0debeb&_nc_ohc=rBy2PE_vguYAX_1-AEp&_nc_ht=scontent.fosu2-2.fna&oh=00_AfC1gwbW80TMuwyuUe1H5eTmu_WgQphjKqeM9G1FaAr_oA&oe=641754B9"  />
+<img src="https://scontent.fosu2-2.fna.fbcdn.net/v/t39.30808-6/313983604_10231124118744977_2113524910701746230_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=0debeb&_nc_ohc=rBy2PE_vguYAX_1-AEp&_nc_ht=scontent.fosu2-2.fna&oh=00_AfC1gwbW80TMuwyuUe1H5eTmu_WgQphjKqeM9G1FaAr_oA&oe=641754B9"  width="300" height="300"/>
 
 
 ---
