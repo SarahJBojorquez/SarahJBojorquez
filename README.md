@@ -48,7 +48,7 @@ Connect with me on [LinkedIn here!](https://www.linkedin.com/in/sarahjbojorquez/
 
 Pic of my dog for attention:
 
-<img src="https://scontent.fosu2-2.fna.fbcdn.net/v/t39.30808-6/313983604_10231124118744977_2113524910701746230_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=0debeb&_nc_ohc=rBy2PE_vguYAX_1-AEp&_nc_ht=scontent.fosu2-2.fna&oh=00_AfC1gwbW80TMuwyuUe1H5eTmu_WgQphjKqeM9G1FaAr_oA&oe=641754B9"  width="300" height="300"/>
+<img src="https://scontent-ord5-1.xx.fbcdn.net/v/t1.6435-9/43239872_10218392506942639_7210334832453222400_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=0debeb&_nc_ohc=GmUmzQQMx7UAX8LDMBL&_nc_ht=scontent-ord5-1.xx&oh=00_AfDnyhQ4ik2bQOr_lUTSkIwi3p9BgU3kcanE2NV8Z8MM_Q&oe=6467CCCE9"  width="300" height="300"/>
 
 
 ---
