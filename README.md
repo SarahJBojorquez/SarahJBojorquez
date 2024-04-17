@@ -44,12 +44,6 @@ Like to read? Connect withe me on <a href="https://www.goodreads.com/user/show/9
 
 Connect with me on [LinkedIn here!](https://www.linkedin.com/in/sarahjbojorquez/)
 
----
-
-Pic of my dog for attention:
-
-<img src="https://scontent-ord5-1.xx.fbcdn.net/v/t1.6435-9/43239872_10218392506942639_7210334832453222400_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=0debeb&_nc_ohc=GmUmzQQMx7UAX8LDMBL&_nc_ht=scontent-ord5-1.xx&oh=00_AfDnyhQ4ik2bQOr_lUTSkIwi3p9BgU3kcanE2NV8Z8MM_Q&oe=6467CCCE"  width="300" height="300"/>
-
 
 ---
 
