@@ -19,7 +19,7 @@
 <div></div>
 <div></div>
 
-### :woman_technologist: About Me :
+## :woman_technologist: About Me :
 
 - 👋 Hello!  My name is **Sarah**.
 - 👀 I’m interested in ... *Everything!* I love to learn new things and enjoy learning for the sake of learning.
@@ -27,7 +27,7 @@
 - 💞️ I’m looking to collaborate on ... Interesting beginner Data Analysis projects I can be of value to.
 - 📫 How to reach me ... sarahbojorquez1107 at gmail.com
 
-Like to read? Connect withe me on <a href="https://www.goodreads.com/user/show/97230998-sarah-bojorquez-lopez">GoodReads</a>
+Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97230998-sarah-bojorquez-lopez">GoodReads</a>
 <div></div>
 <div></div>
 
