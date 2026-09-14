@@ -40,7 +40,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [When Christ and His Saints Slept (Plantagenets #1; Henry II and Eleanor of Aquitaine, #1)](https://www.goodreads.com/review/show/5171971473?utm_medium=api&utm_source=rss) by Sharon Kay Penman (⭐️4.25)
 - [The Lord of Stariel (Stariel, #1)](https://www.goodreads.com/review/show/8916900662?utm_medium=api&utm_source=rss) by A.J. Lancaster (⭐️3.93)
 - [The Prince of Secrets (Stariel, #2)](https://www.goodreads.com/review/show/8928886788?utm_medium=api&utm_source=rss) by A.J. Lancaster (⭐️4.19)
-- [How To Find A Nameless Fae](https://www.goodreads.com/review/show/8928887428?utm_medium=api&utm_source=rss) by A.J. Lancaster (⭐️4.21)
+- [How To Find A Nameless Fae](https://www.goodreads.com/review/show/8928887428?utm_medium=api&utm_source=rss) by A.J. Lancaster (⭐️4.22)
 <!-- GOODREADS-LIST:END -->
 
 ---
