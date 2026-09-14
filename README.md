@@ -31,6 +31,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [At Home: A Short History of Private Life](https://www.goodreads.com/review/show/8945236431?utm_medium=api&utm_source=rss) by Bill  Bryson (⭐️3.98)
 - [The Court of Mortals (Stariel, #3)](https://www.goodreads.com/review/show/8928886968?utm_medium=api&utm_source=rss) by A.J. Lancaster (⭐️4.2)
 - [The King of Faerie (Stariel, #4)](https://www.goodreads.com/review/show/8928887154?utm_medium=api&utm_source=rss) by A.J. Lancaster (⭐️4.33)
 - [A Rake of His Own (Stariel, #5)](https://www.goodreads.com/review/show/8928887290?utm_medium=api&utm_source=rss) by A.J. Lancaster (⭐️4.4)
@@ -40,7 +41,6 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [When Christ and His Saints Slept (Plantagenets #1; Henry II and Eleanor of Aquitaine, #1)](https://www.goodreads.com/review/show/5171971473?utm_medium=api&utm_source=rss) by Sharon Kay Penman (⭐️4.25)
 - [The Lord of Stariel (Stariel, #1)](https://www.goodreads.com/review/show/8916900662?utm_medium=api&utm_source=rss) by A.J. Lancaster (⭐️3.93)
 - [The Prince of Secrets (Stariel, #2)](https://www.goodreads.com/review/show/8928886788?utm_medium=api&utm_source=rss) by A.J. Lancaster (⭐️4.19)
-- [How To Find A Nameless Fae](https://www.goodreads.com/review/show/8928887428?utm_medium=api&utm_source=rss) by A.J. Lancaster (⭐️4.22)
 <!-- GOODREADS-LIST:END -->
 
 ---
